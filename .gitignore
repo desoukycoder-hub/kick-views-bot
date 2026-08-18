@@ -1,0 +1,19 @@
+# Bot token and config
+config.json
+
+# Data files
+bot_data.json
+bot_data_backup.json
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp
+*.tmp
+_upload*.py
+_create_repo.py

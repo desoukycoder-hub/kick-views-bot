@@ -1,0 +1,35 @@
+{
+  "bot_token": "YOUR_BOT_TOKEN_HERE",
+  "server_name": "Your Server Name",
+  "panel_channel_id": 0,
+  "panel_extra_id": 0,
+  "panel_extra_name": "Channel Name",
+  "category_id": 0,
+  "category_name": "Category Name",
+  "auto_create_channels": true,
+  "channels": [
+    "channel-1",
+    "channel-2"
+  ],
+  "welcome_text": "Welcome message here",
+  "pricing": {
+    "kick_clip": {
+      "label": "Kick Clip Views: **1 view = 1 credit**",
+      "credits_per_view": 1
+    }
+  },
+  "extra_note": "Extra note here",
+  "levels_config": {
+    "enabled": true,
+    "active_role": "Active",
+    "roles": {
+      "5": "lvl5",
+      "10": "lvl10"
+    }
+  },
+  "admin_ids": [
+    123456789012345678
+  ],
+  "ticket_staff_roles": ["Staff", "Admin"],
+  "ticket_channel_name": "ticket-name"
+}
