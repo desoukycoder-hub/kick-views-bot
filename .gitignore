@@ -1,3 +1,6 @@
+# Bot token and config
+config.json
+
 # Data files
 bot_data.json
 bot_data_backup.json
